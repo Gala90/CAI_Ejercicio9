@@ -1,0 +1,7 @@
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio9\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb
